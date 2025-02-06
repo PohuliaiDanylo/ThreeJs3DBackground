@@ -5,13 +5,6 @@ import SeaWeed from "./components/seaweed";
 import Blur from "./components/blur";
 
 import { Canvas } from "@react-three/fiber";
-import {
-    Bloom,
-    DepthOfField,
-    EffectComposer,
-    Noise,
-    Vignette,
-} from "@react-three/postprocessing";
 
 function Scene() {
     return (
