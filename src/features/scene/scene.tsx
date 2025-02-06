@@ -1,4 +1,4 @@
-import "./Scene.scss";
+import "./scene.scss";
 import Background from "./components/background";
 import SpongeBob from "./components/spongebob";
 import SeaWeed from "./components/seaweed";
